@@ -1,5 +1,17 @@
-This is my story
-This is going to be a great story
-we are using this to learn github
-that is a wonderful thing
-yay! yay!
+Afghanistan
+Otterbox
+Disinfect
+
+<html>
+  <body>
+    <h1>The Afganistan Mission</h1>
+    <h2>By: Morgan Feller</h2>
+    <p>Once upon a time Morgan was shipped to Afganistan on a secret mission. So secret he couldn't say why he was going. He
+    was going to disinfect the worlds most expensive Otterbox. This Otterbox was the holiest thing on the planet and had to be
+    preserved by Morgan. Morgan attempted to disinfect the Otterbox for multiple days, but could not figure it out. Eventually
+    Morgan thought: screw it! I'm going to buy the same Otterbox and everything is going to be fine. Morgan flew back to
+    America to get an identical Otterbox and then flew back to Afganistan with the fake Otterbox. Head scientists and
+    officials inspected the phone and had told Morgan he had done a great job with perserving the Otterbox. Because of Morgans
+    heroic "disinfection" he won the Noble Peace Prize later in the year.</p>
+    </body>
+</html>
